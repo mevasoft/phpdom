@@ -1,6 +1,7 @@
 {
   "name": "mevasoft/phpdom",
   "description": "Manipulate HTML5 DOM via PHP",
+  "version": "1.0.0",
   "type": "library",
   "require": {
     "php": ">=5.3.0"
